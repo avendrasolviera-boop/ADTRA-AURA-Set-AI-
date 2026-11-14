@@ -1,326 +1,324 @@
 <div align="center">
 
-<h1>🚀 ADTRA AURA Set AI</h1>
-<h3>🇹🇭 From the Determination of a Thai Developer to an AI Ecosystem Everyone Can Help Build</h3>
+# 🚀 ADTRA AURA Set AI
 
-<p><strong>BUILDING BEYOND AI — Create • Customize • Explore</strong></p>
+### 🇹🇭 Built with determination in Thailand. Designed for people who want to build with AI.
 
-<p>
-  <img alt="Project status: Experimental" src="https://img.shields.io/badge/Status-Experimental-orange?style=for-the-badge" />
-  <img alt="Platform: Windows" src="https://img.shields.io/badge/Platform-Windows-0078D4?style=for-the-badge" />
-  <img alt="Focus: Local first" src="https://img.shields.io/badge/Focus-Local--First-24A148?style=for-the-badge" />
-  <img alt="Release: 4.38.0" src="https://img.shields.io/badge/Release-4.38.0-8A2BE2?style=for-the-badge" />
-</p>
+**BEYOND USING AI — CREATE IT • CUSTOMIZE IT • MAKE IT YOURS**
 
-<p><strong>
-<a href="https://avendrasolviera.com">🌐 Official Website</a> ·
-<a href="https://github.com/avendrasolviera-boop/ADTRA-AURA-Set-AI-/releases">⬇️ Download the App</a> ·
-<a href="https://youtu.be/BSg6iQ6mYao">🎬 Watch the Demo</a> ·
-<a href="https://www.facebook.com/share/v/1EE1wPtsBa/">💬 Facebook</a>
-</strong></p>
+[![Status](https://img.shields.io/badge/Status-Experimental-F59E0B?style=for-the-badge)](https://github.com/avendrasolviera-boop/ADTRA-AURA-Set-AI-/releases)
+[![Platform](https://img.shields.io/badge/Platform-Windows-0078D4?style=for-the-badge)](https://github.com/avendrasolviera-boop/ADTRA-AURA-Set-AI-/releases)
+[![Approach](https://img.shields.io/badge/Approach-Local--First-16A34A?style=for-the-badge)](https://avendrasolviera.com)
+[![Referenced release](https://img.shields.io/badge/Referenced%20Release-4.38.0-7C3AED?style=for-the-badge)](https://github.com/avendrasolviera-boop/ADTRA-AURA-Set-AI-/releases)
 
-<p><strong>AI should not be an opportunity reserved only for people with expensive computers.</strong><br />
-We want everyone — including students, developers, beginners, and everyday users — to be able to learn about, use, customize, and build upon their own AI.</p>
+**[🌐 Official Website](https://avendrasolviera.com) • [📦 Download on GitHub](https://github.com/avendrasolviera-boop/ADTRA-AURA-Set-AI-/releases) • [▶️ YouTube Demo](https://www.youtube.com/watch?v=MsOhxvQZMtM&t=1503s) • [📘 Facebook](https://www.facebook.com/share/v/1EE1wPtsBa/)**
+
+> **AI should be something more people can explore and shape — not just something they consume.**
 
 </div>
 
-## ❤️ The Story Behind the Project — From a Dream to an Experimental Milestone
+---
 
-After putting in so much effort, I have finally reached a point where I can say, “I have achieved an experimental milestone.” 🥹🇹🇭
+## ❤️ A Project That Started with a Question
 
-ADTRA AURA Set AI began with a simple question: Why should access to useful AI always depend on expensive computers, specialized skills, or services controlled by others?
+**What if people could do more than simply chat with AI?**
 
-That question inspired me to start building a platform designed to bring together AI, developer tools, and AI customization capabilities in one place, giving users the freedom to experiment, create, and build on their work.
+What if students, developers, creators, and curious beginners could explore multiple AI tools, change how an assistant behaves, experiment with their own knowledge, and gradually build AI experiences for their own projects — all from one place?
 
-Along the way, I faced bugs, repeated fixes, failed tests, and budget limitations. Every challenge helped me understand the system better and motivated me to improve the next version.
+That question became **ADTRA AURA Set AI**.
 
-Today, I am proud that I have turned this idea into a working prototype and made it available for people to try. It is still far from perfect, and much more testing is needed for stability, performance, security, and hardware compatibility.
+I started this project as an independent developer in Thailand. The journey has included difficult bugs, unsuccessful experiments, long debugging sessions, hardware limitations, and plenty of lessons. Each obstacle gave me another reason to improve the platform.
 
-My goal is not to claim that our AI is better than every other system in the world. It is to show that a developer from Thailand can start building their own technology and continue making it better.
+Today, ADTRA AURA Set AI has reached an **experimental application milestone**. It is something people can explore, test, and help improve through feedback. That achievement means a great deal to me, even though there is still much work ahead.
 
-> “We do not need the most powerful computer to begin building something great.” ❤️
+This is not a claim that the project has surpassed every AI platform or that all planned features are finished. It is the beginning of an effort to make AI **more accessible, more customizable, and more useful for real people**.
 
-## 🎬 Watch the ADTRA AURA Set AI Introduction Video
+> _A powerful idea does not have to begin with a powerful computer._
 
-<p align="center">
-  <a href="https://youtu.be/BSg6iQ6mYao"><img src="https://img.youtube.com/vi/BSg6iQ6mYao/hqdefault.jpg" alt="Watch the ADTRA AURA Set AI video on YouTube" width="720" /></a>
-</p>
+---
 
-<p align="center">
-  <strong>▶️ <a href="https://youtu.be/BSg6iQ6mYao">Click the image to watch the full video on YouTube</a></strong><br />
-  <a href="https://www.facebook.com/share/v/1EE1wPtsBa/">📘 Watch and join the conversation on Facebook</a>
-</p>
+## 🎬 Watch the Introduction & Demonstration
 
-This video introduces the application's interface, menus, AI tools, chat system, and development vision. The demonstration may show version 4.36, while a previously published installer was version 4.38.0. As a result, some screens and features may differ from the version currently available for download.
+<div align="center">
 
-**What is included in the video?**
+[![Watch ADTRA AURA Set AI on YouTube](https://img.youtube.com/vi/MsOhxvQZMtM/hqdefault.jpg)](https://www.youtube.com/watch?v=MsOhxvQZMtM&t=1503s)
 
-- ✅ An overview of ADTRA AURA Set AI and the project's goals
-- ✅ A walkthrough of the home screen and various menus
-- ✅ AI conversations and model selection approaches
-- ✅ Tools for development and creative work
-- ✅ Concepts for community features, communication, and information sharing
-- ✅ Development progress, known challenges, and future plans
+### ▶️ [Watch the full ADTRA AURA Set AI video on YouTube](https://www.youtube.com/watch?v=MsOhxvQZMtM&t=1503s)
+
+[💬 See the Facebook post](https://www.facebook.com/share/v/1EE1wPtsBa/)
+
+</div>
+
+The video introduces the project's interface, key menus, AI interactions, creative and developer-oriented tools, and broader vision. Screens and functionality shown in the demonstration may differ from the build currently listed in GitHub Releases.
+
+---
 
 ## 🌟 What Is ADTRA AURA Set AI?
 
-ADTRA AURA Set AI is a local-first AI platform project that aims to combine AI conversations, productivity tools, creative tools, developer features, and AI customization into one integrated experience.
+**ADTRA AURA Set AI** is an experimental **local-first AI application and ecosystem project** that brings together ideas for AI chat, model selection, AI customization, creative tools, developer workflows, and connected community experiences.
 
-Our vision goes beyond a simple question-and-answer chatbot. We want to build an AI ecosystem where users can choose how AI works, select models, create knowledge collections, customize AI behavior, and experiment with their results according to the capabilities of each release.
+Rather than treating AI as a fixed chatbot, the project explores giving users more control over the way AI is configured and used.
 
-## 🎯 Main Goals
+### 🎯 Our Direction
 
-| Goal | Development Approach |
-|---|---|
-| ♿ Accessible AI | Reduce barriers related to installation, usability, and hardware limitations. |
-| 🖥️ Local-first | Prioritize processing on users' own devices when supported by the selected models and features. |
-| 🧠 Customizable AI | Let users configure personalities, roles, knowledge, and workflows. |
-| 🧰 All-in-one Tools | Bring together AI tools for everyday tasks, creative work, and software development. |
-| 🔒 Data Control | Prioritize access permissions, privacy, and security. |
-| 🇹🇭 Technology Developed in Thailand | Create opportunities for people to learn, experiment, provide feedback, and potentially contribute to future development. |
+| Principle                      | What it means                                                                                         |
+| :----------------------------- | :---------------------------------------------------------------------------------------------------- |
+| 🧠 **Make AI customizable**    | Explore ways to adjust roles, behavior, model choices, and knowledge for different tasks.             |
+| 🖥️ **Think local-first**       | Run suitable workflows on the user's own device when the required models and resources are available. |
+| ♿ **Lower barriers**          | Improve the experience for learners and people who may not have high-end hardware.                    |
+| 🧰 **Connect useful tools**    | Work toward a unified space for productivity, creativity, coding, and AI experiments.                 |
+| 🔐 **Prioritize user control** | Design toward clearer permissions, transparent connections, and safer data handling.                  |
+| 🌏 **Grow through feedback**   | Learn from real users and improve the platform one release at a time.                                 |
 
-**Project Status: Experimental / Under Development**
+> **Development status:** Experimental. Individual features may be available, limited, unfinished, or planned depending on the release, operating mode, external services, and installed models. This page describes the project vision as well as development areas; it is not a guarantee that every feature is currently complete.
 
-Feature availability depends on the release version, selected model, configuration, and hardware. The following sections describe both the project's intended capabilities and areas still under development. They do not guarantee that every feature is complete or available on every computer.
+---
 
-## 🔥 Systems and Capabilities the Project Aims to Develop
+## 🔥 Explore the ADTRA AURA Ecosystem
 
-### 🤖 01 | AI Chat & Multi-Model
+### 🤖 01 — AI Chat & Model Choices
 
-An AI conversation system designed for different use cases, from everyday questions and explanations to summarization and specialized tasks, with the goal of allowing users to choose models that suit their needs.
+The platform is designed around conversations that can support learning, explanation, writing, planning, programming, and other workflows.
 
-- Choose between locally installed models and online services when supported.
-- Configure AI roles, personalities, and response styles.
-- Manage model settings and usage according to available hardware resources.
-- Continue improving conversation management and the user experience.
+- Explore different models and configurations where supported.
+- Work toward a choice between installed local models and compatible online providers.
+- Adjust assistant roles, response styles, and task-specific settings.
+- Continue improving model management, usability, and conversation history.
 
-### 🧠 02 | AI Thinking & Intelligent Assistant
+### 🧠 02 — Thinking Styles & AI Assistance
 
-The concept of adjusting AI response styles and workflows to fit different tasks, such as concise answers, in-depth analysis, planning, and programming.
+Different tasks call for different ways of responding. The project's assistant controls aim to make it easier to request concise answers, more detailed explanations, structured problem-solving, or programming assistance.
 
-**Note:** Reasoning capabilities and response quality depend on the actual model. Selecting a higher thinking level does not automatically make every model reason better.
+**Important:** A setting labeled “thinking level” does not create reasoning capability that a selected AI model does not possess. Results still depend on the underlying model and configuration.
 
-### 🛠️ 03 | Build & Customize Your Own AI
+### 🧬 03 — Create & Customize Your Own AI
 
-One of the project's central ideas is to give users opportunities to create and customize their own AI experiences.
+One of the most important ideas behind ADTRA AURA Set AI is **helping people shape AI for their own purposes**.
 
-- Choose a suitable model or foundation.
-- Design roles and response guidelines.
-- Add specialized information or knowledge using supported methods.
-- Test, improve, and evaluate the results.
-- Explore ways to export creations for use with websites or applications.
+A supported workflow may involve:
 
-Here, “building your own AI” may involve configuring settings, adding knowledge collections, or fine-tuning a model. It does not necessarily mean training an entirely new foundation model from scratch in every case.
+1. Selecting an appropriate foundation model.
+2. Defining an assistant's role, purpose, and response guidelines.
+3. Adding relevant knowledge or task-specific information through supported methods.
+4. Testing outputs and improving the configuration.
+5. Exploring available export or integration paths for other projects.
 
-### 💻 04 | Developer Tools & CLI
+“Creating your own AI” can mean configuration, retrieval-augmented knowledge, specialized workflows, or model adaptation. It does **not** always mean training an entirely new foundation model from scratch.
 
-Tools for people interested in software and AI development, including code writing, code explanations, debugging, workflow management, and potential use through a Command Line Interface (CLI).
+### 💻 04 — Developer Workspace & CLI
 
-The project aims to make it easy for beginners to get started while giving experienced users more detailed control over how things work.
+The project aims to support people who build software and experiment with AI systems, including workflows for:
 
-### 🎨 05 | Creative AI Studio
+- Writing and understanding code.
+- Explaining errors and exploring debugging approaches.
+- Working with project-related tasks and automation concepts.
+- Using command-line interfaces where implemented and supported.
+- Connecting AI capabilities to applications and development processes.
 
-The project aims to bring creative tools together in one system, including:
+The longer-term goal is to make the experience approachable for beginners while preserving useful controls for more experienced developers.
 
-- 🖼️ AI image generation and editing
-- 🎞️ Video and animation-related tools
-- 🎙️ Audio, text-to-speech, and other sound-related tools
-- 📄 Assistance with drafting, summarizing, and preparing documents
-- 🧩 AI applications for creative tasks and automation
+### 🎨 05 — Creative AI & Everyday Productivity
 
-Please check which capabilities are actually available in your installed version. Some may require additional models, third-party services, or further development.
+ADTRA AURA Set AI explores bringing several creative and productive workflows into one experience:
 
-### 🌍 06 | Global Chat & Community
+- 🖼️ Image generation and editing.
+- 🎞️ Video and animation-related tools.
+- 🎙️ Speech, sound, and audio workflows.
+- 📄 Writing, summarization, and document assistance.
+- 🧩 Task-specific AI utilities and creative experimentation.
 
-A concept for connecting users through chat, community features, and idea-sharing, including one-to-one conversations, group discussions, and the exchange of AI experiences.
+Some capabilities may require separately installed models, additional computing resources, compatible services, or further development.
 
-### 📁 07 | File Sharing & Collaboration
+### 🌍 06 — Community & Global Communication
 
-Development of file management, information sharing, and collaborative workflows, with attention to access permissions and the protection of sensitive information.
+Beyond individual AI tasks, the project includes a vision for communication and community features, such as conversations between users, group discussions, collaboration, and sharing ideas about building with AI.
 
-### ⚡ 08 | Performance & Resource Management
+Availability, moderation, privacy controls, and connectivity requirements can vary by implementation and release.
 
-The project places importance on computers with limited resources and on making appropriate use of CPU, GPU, and RAM.
+### 📁 07 — File Workflows & Collaboration
 
-The developer has experimented with approaches that allow certain supported types of AI tasks to run on computers with 2 GB of RAM. However, actual results depend on the operating system, model, data size, available memory, and workload.
+The roadmap includes file-oriented workflows for working with information, sharing selected materials, and exploring collaborative uses. Access controls and safe handling of personal or sensitive data are essential parts of this direction.
 
-- Inspect system resource information.
-- Adjust model loading and management to suit hardware limitations.
-- Reduce unnecessary background tasks when it is safe to do so.
-- Collect test results and continuously improve stability.
+### ⚡ 08 — Performance for Different Computers
 
-**⚠️ This is not a guarantee that every AI model can run with 2 GB of RAM, nor is it a guarantee that the application will make every computer faster. Test it before relying on it for real-world use.**
+A central motivation for the project is to explore AI experiences on computers with limited resources.
 
-### 🖥️ 09 | Local AI & Offline-First
+The developer has described experiments involving **certain AI workloads on devices with 2 GB of RAM**. These are workload-specific experiments, **not a universal hardware requirement or a promise that all models can run with 2 GB**.
 
-The project aims to let users process AI tasks locally whenever suitable models and tools are available, without requiring cloud services for every task.
+Performance depends on the operating system, model size and quantization, CPU, GPU, memory, storage, and the actual task. Optimization efforts include resource awareness, efficient loading, reducing unnecessary work where safe, and testing under realistic conditions.
 
-Online features, website integrations, updates, and third-party services may require network connectivity and data transmission, depending on the configuration. Users should verify the operating mode before working with sensitive information.
+**No application can guarantee a 100% speed increase on every computer.** Users should evaluate performance and stability on their own hardware.
 
-### 🛡️ 10 | Privacy, Security & Control
+### 🖥️ 09 — Local-First & Offline Workflows
 
-Security is an important part of the development roadmap, including:
+The project prioritizes workflows that can operate locally **when the models, files, and dependencies are already on the device**.
 
-- Permission management and data access controls
-- Preventing unnecessary outbound data transmission
-- Monitoring connections and the use of external services
-- Exploring ways to reduce risks to websites, applications, and user devices
-- Continuously testing for and fixing vulnerabilities
+However, downloading models, updates, global chat, online providers, cloud-backed features, or web integrations may require internet access and may transmit data to external services. Local-first does not mean every function is fully offline or that no network traffic ever occurs.
 
-No system can guarantee 100% security. Security features must be properly tested before being relied upon to protect critical systems.
+### 🛡️ 10 — Security, Privacy & Transparency
 
-### 🔗 11 | AI Integration for Websites & Apps
+The security roadmap emphasizes:
 
-One goal is to enable users to connect their customized AI to their own websites or applications using supported file formats, tools, or interfaces.
+- Clearer access permissions and safer handling of sensitive data.
+- Visibility into online services and outbound connections.
+- Appropriate protection for local files and project settings.
+- Security testing, vulnerability reporting, and continuous fixes.
+- User awareness of the differences between local and online operation.
 
-Real-world deployment and costs depend on the features used, connected services, service terms, and required resources.
+**Security protections are under ongoing evaluation.** Do not treat an experimental release as a guaranteed security product or use it to protect critical systems without independent validation.
 
-## 🇹🇭 Why Does This Project Matter to Me?
+### 🔗 11 — AI for Your Website or App
 
-I want to see the day when school students, university students, independent developers, and people with ordinary computers can proudly say, “This is an AI system I customized and developed myself.”
+An important goal is to help users take suitable AI configurations, knowledge workflows, or supported artifacts into their own websites and applications.
 
-You do not need enormous funding to begin. You can start with curiosity, experimentation, responsibility, and the determination to learn from mistakes.
+Actual integration methods, export formats, ongoing costs, and usage rights depend on the feature and the licenses of the models and services involved.
 
-If you want to start creating your own AI, this project aims to provide another way to learn and grow. It is not a shortcut that instantly gives everyone a world-class AI system, but a tool and an opportunity to get started.
+---
 
-**A note on ownership and rights:** Users should review the licenses for models, training data, datasets, and any related services. Rights to customized models and AI-generated outputs do not always arise automatically through use or registration, and they depend on applicable laws.
-
-## ⬇️ Download & Installation
+## 📦 Download & Get Started
 
 <div align="center">
 
-### 📦 Ready to Try ADTRA AURA Set AI?
+### 🚀 Ready to Explore?
 
-**⬇️ [Open the GitHub Releases Download Page](https://github.com/avendrasolviera-boop/ADTRA-AURA-Set-AI-/releases)**
+**[⬇️ Open GitHub Releases — ADTRA AURA Set AI](https://github.com/avendrasolviera-boop/ADTRA-AURA-Set-AI-/releases)**
 
-**🌐 [Visit the Project Website](https://avendrasolviera.com)**
+**[🌐 Visit the Official Project Website](https://avendrasolviera.com)**
 
 </div>
 
-### 💻 Installing on Windows
+### Windows Installation
 
-1. Go to [GitHub Releases](https://github.com/avendrasolviera-boop/ADTRA-AURA-Set-AI-/releases).
-2. Select the release you want, and check its version number and publication date.
-3. Download the Windows x64 installer, such as `AURA-Set-AI-4.38.0-x64-setup.exe`, if that file is still available in the release.
-4. Verify the filename and download source, and scan the file before running it.
-5. Follow the installer instructions and review any permissions requested by the application.
-6. Launch the app and choose tools or models that are supported by your computer.
+1. Visit the official [GitHub Releases page](https://github.com/avendrasolviera-boop/ADTRA-AURA-Set-AI-/releases).
+2. Review the version number, release notes, and available assets.
+3. Download the correct Windows installer if one is provided for that release (for example, an x64 setup file).
+4. Verify the source and scan the downloaded file before launching it.
+5. Follow the installer prompts and review permissions carefully.
+6. Open the application and choose features or models suitable for your hardware.
 
-**Important:** Experimental releases may contain bugs or have limited compatibility. Back up important data and test the software on an appropriate device before using it for critical tasks.
+**Referenced version in the supplied project information:** `4.38.0`. Check GitHub for the version actually available; this document does not assert that 4.38.0 is the latest release.
 
-### 🧾 System Requirements
+### General System Considerations
 
-| Component | General Information |
-|---|---|
-| Operating System | 64-bit Windows for the x64 installer |
-| RAM | Depends on the model and workload; experiments with 2 GB of RAM do not cover all use cases. |
-| CPU / GPU | Speed and compatibility depend on the hardware and selected model. |
-| Storage | Depends on application size, downloaded models, and user files. |
-| Internet | Some modes can work locally; updates and online services require network access. |
+| Component            | Guidance                                                                                       |
+| :------------------- | :--------------------------------------------------------------------------------------------- |
+| **Operating system** | Windows 64-bit for a Windows x64 installer.                                                    |
+| **RAM**              | Depends on the model and workload; 2 GB experiments do not establish universal compatibility.  |
+| **CPU / GPU**        | Capabilities and performance depend on supported models and installed hardware.                |
+| **Storage**          | Allow for the application, models, cache, and working files.                                   |
+| **Network**          | Needed for downloads and any connected services; supported local workflows may run without it. |
 
-## 🎁 Trial Period & Pricing Plans
+> ⚠️ **Experimental software notice:** Back up important files, inspect release notes, and test carefully before relying on the application for important work.
 
-The developer previously announced plans for a **3-day trial** and related services starting at **a few tens of Thai baht per month**. Please check the latest terms, pricing, and availability through official channels before subscribing, as these may change during development.
+---
 
-**Website:** https://avendrasolviera.com
+## 🎁 Trial & Pricing Information
 
-## 🧭 Roadmap — What Comes Next?
+The project has previously discussed a **3-day trial** and potential subscription options starting at **a few tens of Thai baht per month**. These details are subject to change and should not be treated as a confirmed current offer.
 
-The following items describe development directions, not guaranteed delivery dates or promises that every feature will become available.
+Please check the [official website](https://avendrasolviera.com) for applicable terms, availability, and pricing before making a purchase.
 
-- [ ] Improve stability, speed, and performance for local workloads.
-- [ ] Improve the experience of selecting and managing multiple AI models.
-- [ ] Expand tools for creating and customizing specialized AI.
-- [ ] Make AI integration with websites and apps easier.
-- [ ] Add more developer tools and CLI capabilities.
-- [ ] Improve creative tools for images, audio, video, and documents.
-- [ ] Test across different hardware specifications and publish verifiable results.
-- [ ] Test security, data storage, and network communications.
-- [ ] Collect user feedback and create more comprehensive documentation.
+---
 
-## ❓ Frequently Asked Questions (FAQ)
+## 🗺️ Development Roadmap
+
+These are **development goals, not announced completion dates**.
+
+- [ ] Improve stability, installation reliability, and overall user experience.
+- [ ] Expand support for compatible AI models and configuration options.
+- [ ] Improve performance measurements across different hardware profiles.
+- [ ] Refine workflows for customizing task-specific AI assistants.
+- [ ] Make supported website and app integrations easier to use.
+- [ ] Expand developer tools and CLI documentation.
+- [ ] Continue exploring image, audio, video, and document workflows.
+- [ ] Strengthen security reviews, permissions, and network transparency.
+- [ ] Improve community tools and feedback collection where applicable.
+- [ ] Publish clearer tutorials, benchmarks, limitations, and release notes.
+
+---
+
+## ❓ Frequently Asked Questions
 
 <details>
-<summary><b>Does ADTRA AURA Set AI consist entirely of newly developed AI models?</b></summary>
+<summary><strong>Is ADTRA AURA Set AI one completely new foundation model?</strong></summary>
 
-The project is an AI platform and ecosystem that brings together tools and customization features. Using or adapting models from other sources is not the same as training entirely new foundation models from scratch.
+No. It is a platform and ecosystem project. It may use, configure, or integrate different models and tools. Building a platform or customizing an existing model is different from training a completely new foundation model.
 
 </details>
 
 <details>
-<summary><b>Can it run on a computer with 2 GB of RAM?</b></summary>
+<summary><strong>Can every AI model run with only 2 GB of RAM?</strong></summary>
 
-The developer reports experimenting with certain AI workloads on computers with 2 GB of RAM. Actual performance depends on the model, operating system, and remaining resources. It does not mean that every type of AI or every model is supported.
-
-</details>
-
-<details>
-<summary><b>Can I use it without an internet connection?</b></summary>
-
-Features that have all their required models and resources available locally may work offline. Online chat, communities, updates, and third-party integrations require an internet connection.
+No. The 2 GB figure refers to developer-described experiments for certain workloads. Actual requirements depend on the model, operating system, and task.
 
 </details>
 
 <details>
-<summary><b>Can I own the AI that I customize?</b></summary>
+<summary><strong>Does everything work without the internet?</strong></summary>
 
-Users can create and customize systems within the supported capabilities. However, usage rights and ownership depend on model licenses, data sources, services, and applicable laws.
-
-</details>
-
-<details>
-<summary><b>Is this application open source?</b></summary>
-
-Please check the `LICENSE` file and the terms for each component before using the code. A public GitHub repository does not automatically mean that every part is open source or available for commercial use.
+No. Some supported workflows may run locally once their dependencies are installed. Updates, online AI providers, communication features, and other network-based tools require internet access.
 
 </details>
 
 <details>
-<summary><b>Where can I report bugs or suggest features?</b></summary>
+<summary><strong>Can I legally own an AI that I customize?</strong></summary>
 
-You can submit bug reports and suggestions through [GitHub Issues](https://github.com/avendrasolviera-boop/ADTRA-AURA-Set-AI-/issues). Do not disclose passwords, API keys, or personal information. For security vulnerabilities, use a private channel to contact the developer before publicly sharing details.
+You may be able to use or distribute your work under applicable terms, but rights depend on licenses, datasets, third-party services, and law. Customization or using a platform does not automatically establish exclusive copyright in an underlying model.
 
 </details>
 
-## 🤝 Be Part of This Journey
+<details>
+<summary><strong>Is the entire project open source?</strong></summary>
 
-I welcome feedback from users and developers alike, whether it involves suggestions, tutorials you would like to see, installation problems, or ideas that could make the platform better.
+Do not assume so just because there is a GitHub repository. Check the repository's `LICENSE`, the availability of source code, and the license for each included component.
 
-### 💬 I Would Love to Hear Your Thoughts
+</details>
 
-1. If you could have multiple AI tools in one platform, what would you most want them to do?
-2. What kind of specialized AI would you like to create — for education, programming, business, or something else?
-3. What features would you like to see in the next release?
+<details>
+<summary><strong>Where can I report issues or suggest improvements?</strong></summary>
 
-If you find this project interesting, please consider giving it a ⭐ Star on GitHub or sharing it with others who want to start learning about AI.
+Use [GitHub Issues](https://github.com/avendrasolviera-boop/ADTRA-AURA-Set-AI-/issues) for bug reports and suggestions. Please avoid posting passwords, API keys, or personal information. Report sensitive security concerns privately to the developer.
 
-## 🔗 Official Links
+</details>
 
-| Channel | Link |
-|---|---|
-| 🌐 Official Website | [avendrasolviera.com](https://avendrasolviera.com) |
-| 🧰 Developer Website / Downloads | [Project Website](https://avendrasolviera.com) |
-| 📦 App Downloads | [GitHub Releases](https://github.com/avendrasolviera-boop/ADTRA-AURA-Set-AI-/releases) |
-| 🎬 Introduction Video | [YouTube](https://youtu.be/BSg6iQ6mYao) |
-| 📘 Facebook Post | [Facebook Video](https://www.facebook.com/share/v/1EE1wPtsBa/) |
-| 🐛 Bug Reports / Feature Requests | [GitHub Issues](https://github.com/avendrasolviera-boop/ADTRA-AURA-Set-AI-/issues) |
+---
 
-## 🌐 English Overview
+## 🤝 Help Shape What Comes Next
 
-ADTRA AURA Set AI is an experimental AI ecosystem developed with a strong focus on accessibility, local-first computing, user customization, and practical developer tools.
+I believe technology becomes better when people are willing to test it, question it, and share what they learn.
 
-The project aims to bring AI chat, multiple model workflows, personalized AI experiences, creative tools, developer utilities, and selected community features together in one platform. Some capabilities are experimental or planned and may not be available in every release.
+If ADTRA AURA Set AI interests you, you can help by trying a release, sharing constructive feedback, reporting bugs, discussing ideas, or introducing the project to someone who wants to learn about AI.
 
-Our long-term goal is simple: make it easier for more people to learn, experiment with, customize, and build useful AI experiences — regardless of whether they own expensive hardware.
+**I'd especially love to hear:** What would you build if you could customize an AI assistant for your own work? Which tools would make the biggest difference to you? What should the next version improve first?
 
-[Download](https://github.com/avendrasolviera-boop/ADTRA-AURA-Set-AI-/releases) · [Watch Demo](https://youtu.be/BSg6iQ6mYao) · [Official Website](https://avendrasolviera.com)
+⭐ **If you support this journey, consider starring the GitHub repository and sharing the demonstration.**
+
+---
+
+## 🔗 Official Links & Community
+
+| Destination                       | Link                                                                                   |
+| :-------------------------------- | :------------------------------------------------------------------------------------- |
+| 🌐 Official Website               | [avendrasolviera.com](https://avendrasolviera.com)                                     |
+| 📦 Releases & Downloads           | [GitHub Releases](https://github.com/avendrasolviera-boop/ADTRA-AURA-Set-AI-/releases) |
+| 🎬 YouTube Demonstration          | [Watch ADTRA AURA Set AI](https://www.youtube.com/watch?v=MsOhxvQZMtM&t=1503s)         |
+| 📘 Facebook Video / Community     | [View Facebook Post](https://www.facebook.com/share/v/1EE1wPtsBa/)                     |
+| 🐛 Bug Reports & Feature Requests | [GitHub Issues](https://github.com/avendrasolviera-boop/ADTRA-AURA-Set-AI-/issues)     |
+
+---
 
 <div align="center">
 
-<h3>❤️ Thank You to Everyone Supporting the Efforts of a Thai Developer</h3>
-<p><strong>Every problem is a lesson. Every version is progress. And this is only the beginning.</strong></p>
-<h3>🚀 ADTRA AURA Set AI — BUILDING BEYOND AI</h3>
-<p><strong>Made with determination in Thailand 🇹🇭</strong></p>
-<p><a href="#-adtra-aura-set-ai">⬆️ Back to Top</a> · <a href="https://github.com/avendrasolviera-boop/ADTRA-AURA-Set-AI-/releases">📦 Downloads</a> · <a href="https://youtu.be/BSg6iQ6mYao">🎬 Demo</a></p>
+### ❤️ Thank You for Supporting an Independent AI Project from Thailand
+
+**Every experiment teaches us something. Every fix moves us forward. Every version is another step.**
+
+### 🚀 ADTRA AURA Set AI
+
+**BUILDING BEYOND AI — CREATE • CUSTOMIZE • EXPLORE**
+
+_Developed with determination in Thailand 🇹🇭_
+
+**[📦 Download](https://github.com/avendrasolviera-boop/ADTRA-AURA-Set-AI-/releases) • [▶️ Watch on YouTube](https://www.youtube.com/watch?v=MsOhxvQZMtM&t=1503s) • [🌐 Website](https://avendrasolviera.com)**
 
 </div>
