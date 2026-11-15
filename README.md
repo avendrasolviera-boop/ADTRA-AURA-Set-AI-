@@ -11,7 +11,7 @@
 [![Approach](https://img.shields.io/badge/Approach-Local--First-16A34A?style=for-the-badge)](https://avendrasolviera.com)
 [![Referenced release](https://img.shields.io/badge/Referenced%20Release-4.38.0-7C3AED?style=for-the-badge)](https://github.com/avendrasolviera-boop/ADTRA-AURA-Set-AI-/releases)
 
-**[🌐 Official Website](https://avendrasolviera.com) • [📦 Download on GitHub](https://github.com/avendrasolviera-boop/ADTRA-AURA-Set-AI-/releases) • [▶️ YouTube Demo](https://www.youtube.com/watch?v=MsOhxvQZMtM&t=1503s) • [📘 Facebook](https://www.facebook.com/share/v/1EE1wPtsBa/)**
+**[🌐 Official Website](https://avendrasolviera.com) • [📦 Download on GitHub](https://github.com/avendrasolviera-boop/ADTRA-AURA-Set-AI-/releases) • [▶️ YouTube Demo](https://youtu.be/Upqf6X4nX70) • [📘 Facebook](https://www.facebook.com/share/v/1EE1wPtsBa/)**
 
 > **AI should be something more people can explore and shape — not just something they consume.**
 
@@ -41,9 +41,9 @@ This is not a claim that the project has surpassed every AI platform or that all
 
 <div align="center">
 
-[![Watch ADTRA AURA Set AI on YouTube](https://img.youtube.com/vi/MsOhxvQZMtM/hqdefault.jpg)]([https://www.youtube.com/watch?v=MsOhxvQZMtM&t=1503s](https://youtu.be/Upqf6X4nX70))
+[![Watch ADTRA AURA Set AI on YouTube](https://img.youtube.com/vi/Upqf6X4nX70/hqdefault.jpg)](https://youtu.be/Upqf6X4nX70)
 
-### ▶️ [Watch the full ADTRA AURA Set AI video on YouTube](https://www.youtube.com/watch?v=MsOhxvQZMtM&t=1503s)
+### ▶️ [Watch the full ADTRA AURA Set AI video on YouTube](https://youtu.be/Upqf6X4nX70)
 
 [💬 See the Facebook post](https://www.facebook.com/share/v/1EE1wPtsBa/)
 
@@ -301,7 +301,7 @@ If ADTRA AURA Set AI interests you, you can help by trying a release, sharing co
 | :-------------------------------- | :------------------------------------------------------------------------------------- |
 | 🌐 Official Website               | [avendrasolviera.com](https://avendrasolviera.com)                                     |
 | 📦 Releases & Downloads           | [GitHub Releases](https://github.com/avendrasolviera-boop/ADTRA-AURA-Set-AI-/releases) |
-| 🎬 YouTube Demonstration          | [Watch ADTRA AURA Set AI](https://www.youtube.com/watch?v=MsOhxvQZMtM&t=1503s)         |
+| 🎬 YouTube Demonstration          | [Watch ADTRA AURA Set AI](https://youtu.be/Upqf6X4nX70)         |
 | 📘 Facebook Video / Community     | [View Facebook Post](https://www.facebook.com/share/v/1EE1wPtsBa/)                     |
 | 🐛 Bug Reports & Feature Requests | [GitHub Issues](https://github.com/avendrasolviera-boop/ADTRA-AURA-Set-AI-/issues)     |
 
@@ -319,6 +319,6 @@ If ADTRA AURA Set AI interests you, you can help by trying a release, sharing co
 
 _Developed with determination in Thailand 🇹🇭_
 
-**[📦 Download](https://github.com/avendrasolviera-boop/ADTRA-AURA-Set-AI-/releases) • [▶️ Watch on YouTube](https://www.youtube.com/watch?v=MsOhxvQZMtM&t=1503s) • [🌐 Website](https://avendrasolviera.com)**
+**[📦 Download](https://github.com/avendrasolviera-boop/ADTRA-AURA-Set-AI-/releases) • [▶️ Watch on YouTube](https://youtu.be/Upqf6X4nX70) • [🌐 Website](https://avendrasolviera.com)**
 
 </div>
