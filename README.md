@@ -41,7 +41,7 @@ This is not a claim that the project has surpassed every AI platform or that all
 
 <div align="center">
 
-[![Watch ADTRA AURA Set AI on YouTube](https://img.youtube.com/vi/MsOhxvQZMtM/hqdefault.jpg)](https://www.youtube.com/watch?v=MsOhxvQZMtM&t=1503s)
+[![Watch ADTRA AURA Set AI on YouTube](https://img.youtube.com/vi/MsOhxvQZMtM/hqdefault.jpg)]([https://www.youtube.com/watch?v=MsOhxvQZMtM&t=1503s](https://youtu.be/Upqf6X4nX70))
 
 ### ▶️ [Watch the full ADTRA AURA Set AI video on YouTube](https://www.youtube.com/watch?v=MsOhxvQZMtM&t=1503s)
 
